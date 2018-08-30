@@ -1,0 +1,25 @@
+{
+  "name": "react-saga",
+  "version": "1.0.0",
+  "description": "Saga",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JainVayam/react-saga.git"
+  },
+  "keywords": [
+    "saga",
+    "redux",
+    "react",
+    "jain"
+  ],
+  "author": "Vayam Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JainVayam/react-saga/issues"
+  },
+  "homepage": "https://github.com/JainVayam/react-saga#readme"
+}
